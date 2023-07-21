@@ -1,0 +1,45 @@
+.title{text-align: center;
+      color: aqua;
+      background-color: black;
+      font-size: 200px;
+      font-family: 'Lugrasimo', cursive;
+      text-decoration: underline;
+}
+
+p{font-size: 25px;
+    color: aqua;
+}
+body{background-image: linear-gradient(to top, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);}
+
+.callofduty{
+    color: coral;
+    background-color: aquamarine;
+    text-decoration: none;
+    font-size: 50px;
+    padding: 20px ;
+    border-radius: 25px;
+    text-align: center;
+    
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+img{width: 100%;}
+
+.button{
+    color: coral;
+    background-color: aquamarine;
+    text-decoration: none;
+    font-size: 50px;
+    padding: 20px ;
+    border-radius: 25px;
+
+}
+
+.button-n{
+
+    
+    margin-bottom: 500px;
+}
